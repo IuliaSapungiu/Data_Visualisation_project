@@ -1,4 +1,4 @@
-# UK Air Quality Analysis During and After the COVID-19 Pandemic
+# Uneven Air Quality Change: A Visual Analysis of PM₂.₅ Trends Across UK Cities During and After COVID-19
 ###### This project is developed for academic and educational purposes as part of the MSc Data Science programme. Air quality data are sourced from the UK Air Quality Archive (DEFRA) and are subject to their terms of use.
 ###### All rights reserved © Iulia Sapungiu
 
