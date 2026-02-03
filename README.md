@@ -10,9 +10,9 @@
  - [Project Structure](#project-structure)
 
 ### Project Overview
-This project analyses how air pollutant concentrations (PM₂.₅, PM₁₀, NO₂, and O₃) varied across four major UK cities (London, Edinburgh, Manchester, Sheffield) during the COVID-19 pandemic (2020–2021) and the post-pandemic period (2022–2024).
+This project examines how fine particulate matter (PM₂.₅) concentrations changed across four major UK cities (London, Edinburgh, Manchester, and Sheffield) during the COVID-19 pandemic (2020–2021) and the post-pandemic period (2022–2024). Using daily air quality measurements from urban background monitoring stations, the analysis focuses on identifying temporal patterns, between-city differences, and the consistency of PM₂.₅ changes over time.
 
-The analysis uses daily air quality measurements from urban background monitoring stations and focuses on identifying temporal trends, between-city differences, and relationships between key pollutants, with particular emphasis on PM₂.₅ due to its public health relevance.
+A composite visualisation approach is employed to combine temporal trends, distributional comparisons, summary statistics, and pollutant relationships. While other pollutants are explored during data preparation, PM₂.₅ is prioritised due to its well-established public health relevance, with NO₂ used selectively to contextualise potential traffic-related influences. The project aims to build visual evidence on whether pandemic-related changes in PM₂.₅ were uniform across UK cities or shaped by local urban dynamics.
 
 ### Research Questions
 How did daily concentrations of PM₂.₅, PM₁₀, NO₂, and O₃ vary across major UK cities during and after the COVID-19 pandemic (2020–2024)?
